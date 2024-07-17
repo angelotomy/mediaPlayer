@@ -1,0 +1,49 @@
+{
+  "allVideos": [
+    {
+      "caption": "Too Many Nights",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.c8NUNyujRYLqJYp4FiF76gAAAA%26pid%3DApi&f=1&ipt=2ba91074156b92b65b78bc8712992e730e51325c72837265549d6b80f3da580f&ipo=images",
+      "embedLink": "https://www.youtube.com/embed/CmSRd6S9Gx4",
+      "id": 2
+    },
+    {
+      "caption": "The Color Violet",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.scdn.co%2Fimage%2Fab67616d0000b2730c5f23cbf0b1ab7e37d0dc67&f=1&nofb=1&ipt=7671a4627dff57a16112b3609c4a2ee2e00407a131e54f6b89722ce89c80c57b&ipo=images",
+      "embedLink": "https://www.youtube.com/embed/Istt2aXmWFg",
+      "id": 3
+    },
+    {
+      "caption": "The Hills",
+      "imageUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.genius.com%2F4d6a3a9b56e2b1073e36a7979b46b6d3.1000x1000x1.jpg&f=1&nofb=1&ipt=287f8a9f93ef4c1254b0e49e817897b0e864ecc3b7dac0c44ed0b1959659fee5&ipo=images",
+      "embedLink": "https://www.youtube.com/embed/G5XpJP7f_SE",
+      "id": 4
+    }
+  ],
+  "category": [],
+  "history": [
+    {
+      "caption": "Too Many Nights",
+      "url": "https://www.youtube.com/embed/CmSRd6S9Gx4",
+      "timeStamp": "11/07/2024, 14:04:25",
+      "id": 1
+    },
+    {
+      "caption": "The Hills",
+      "url": "https://www.youtube.com/embed/G5XpJP7f_SE",
+      "timeStamp": "11/07/2024, 14:04:28",
+      "id": 2
+    },
+    {
+      "caption": "The Color Violet",
+      "url": "https://www.youtube.com/embed/Istt2aXmWFg",
+      "timeStamp": "11/07/2024, 14:04:31",
+      "id": 3
+    },
+    {
+      "caption": "The Hills",
+      "url": "https://www.youtube.com/embed/G5XpJP7f_SE",
+      "timeStamp": "11/07/2024, 14:05:51",
+      "id": 4
+    }
+  ]
+}
